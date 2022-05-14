@@ -15,5 +15,5 @@ patch:
     - {schema: stroke}
     - {schema: terra_pinyin}
   menu/page_size : 9
-  switches/@0/reset: 1 
-
+  switches/@0/reset: 1
+  style/font_point: 26
