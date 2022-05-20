@@ -12,6 +12,8 @@
 #
 
 patch:
+  switches/@0/reset: 1 
+  style/font_point: 26
   'speller/algebra':
     - erase/^xx$/                      # 第一行保留
 
